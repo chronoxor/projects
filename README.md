@@ -3,7 +3,7 @@ C++ Projects
 
 # Contents
   * [Requirements](#requirements)
-  * [How to build?](#how-to-build)
+  * [How to clone and update?](#how-to-clone-and-update)
     * [Clone all repositories](#clone-all-repositories)
     * [Update all repositories](#update-all-repositories)
 
@@ -17,7 +17,7 @@ C++ Projects
 * GCC 5.0.0
 * [CMake 3.5.0](http://www.cmake.org/download/)
 
-#How to build?
+#How to clone and update?
 
 ## Clone all repositories
 
