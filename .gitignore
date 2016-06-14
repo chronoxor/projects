@@ -1,29 +1,10 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignore everything:
+*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Except some necessary files:
+!.gitignore
+!LICENSE
+!README.md
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+!*.bat
+!*.sh
