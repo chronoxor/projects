@@ -11,3 +11,4 @@ FOR /D %%X IN (
   git push
   cd ..
 )
+.
