@@ -31,12 +31,12 @@ clone.sh
 
 Windows
 ```
-clone.bat
+refresh.bat
 ```
 
 Linux
 ```
-clone.sh
+refresh.sh
 ```
 
 ## Update all repositories
