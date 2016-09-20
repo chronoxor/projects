@@ -9,6 +9,6 @@ FOR /D %%X IN (
   *
 ) DO (
   cd %%X
-  git submodule update --init --recursive
+  git submodule update --init --recursive --remote
   cd ..
 )

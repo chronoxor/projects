@@ -8,6 +8,6 @@ git clone "git@bitbucket.org:chronoxor/CppLogging.git" CppLogging
 for project in */
 do
   cd ./$project
-  git submodule update --init --recursive
+  git submodule update --init --recursive --remote
   cd ..
 done
