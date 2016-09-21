@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone "https://github.com/chronoxor/CppBuildScripts.git" CppBuildScripts
 git clone "https://github.com/chronoxor/CppCMakeScripts.git" CppCMakeScripts
 git clone "https://github.com/chronoxor/CppBenchmark.git" CppBenchmark

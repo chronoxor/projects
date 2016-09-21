@@ -1,6 +1,6 @@
-FOR /D %%X IN (
+for /D %%X in (
   *
-) DO (
+) do (
   cd %%X
   git pull
   git submodule update --recursive --remote
