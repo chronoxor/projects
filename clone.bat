@@ -5,9 +5,9 @@ git clone "https://github.com/chronoxor/CppTemplate.git" CppTemplate
 rem git clone "git@bitbucket.org:chronoxor/CppCommon.git" CppCommon
 rem git clone "git@bitbucket.org:chronoxor/CppLogging.git" CppLogging
 
-FOR /D %%X IN (
+for /D %%X in (
   *
-) DO (
+) do (
   cd %%X
   git submodule update --init --recursive --remote
   cd ..

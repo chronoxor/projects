@@ -1,3 +1,4 @@
+#!/bin/bash
 for project in */
 do
   cd ./$project
