@@ -2,7 +2,7 @@ git clone "https://github.com/chronoxor/CppBuildScripts.git" CppBuildScripts
 git clone "https://github.com/chronoxor/CppCMakeScripts.git" CppCMakeScripts
 git clone "https://github.com/chronoxor/CppBenchmark.git" CppBenchmark
 git clone "https://github.com/chronoxor/CppTemplate.git" CppTemplate
-rem git clone "git@bitbucket.org:chronoxor/CppCommon.git" CppCommon
+git clone "https://github.com/chronoxor/CppCommon.git" CppCommon
 rem git clone "git@bitbucket.org:chronoxor/CppLogging.git" CppLogging
 
 for /D %%X in (
