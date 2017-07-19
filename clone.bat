@@ -8,7 +8,6 @@ git clone "https://github.com/chronoxor/CppSerialization.git" CppSerialization
 git clone "https://github.com/chronoxor/CppServer.git" CppServer
 git clone "https://github.com/chronoxor/CppTrader.git" CppTrader
 
-
 for /D %%X in (
   *
 ) do (
