@@ -7,6 +7,7 @@ git clone "https://github.com/chronoxor/CppLogging.git" CppLogging
 git clone "https://github.com/chronoxor/CppSerialization.git" CppSerialization
 git clone "https://github.com/chronoxor/CppServer.git" CppServer
 git clone "https://github.com/chronoxor/CppTrader.git" CppTrader
+git clone "https://github.com/chronoxor/CSharpServer.git" CSharpServer
 
 for /D %%X in (
   *
