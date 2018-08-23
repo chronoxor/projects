@@ -11,7 +11,7 @@ C++ Projects
 # Requirements
 * Windows 7 / Windows 10
 * Linux
-* [GIT](https://git-scm.com/)
+* [git](https://git-scm.com/)
 
 #How to clone, refresh and update?
 
