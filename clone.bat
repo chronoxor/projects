@@ -8,7 +8,7 @@ git clone https://github.com/chronoxor/CppSerialization.git
 git clone https://github.com/chronoxor/CppServer.git
 git clone https://github.com/chronoxor/CppTrader.git
 git clone https://github.com/chronoxor/CSharpServer.git
-git clone https://github.com/chronoxor/FastBinaryEncoding.git
+git clone https://github.com/chronoxor/Fast-Binary-Encoding.git
 
 for /D %%X in (
   *
