@@ -1,54 +1,24 @@
-# CppProjects
-C++ Projects
+# Projects
+Projects repository and update script allows to prepare a local workspace.
 
 # Contents
   * [Requirements](#requirements)
-  * [How to clone, refresh and update?](#how-to-clone-refresh-and-update)
-    * [Clone all repositories](#clone-all-repositories)
-    * [Refresh all repositories](#refresh-all-repositories)
-    * [Update all repositories](#update-all-repositories)
+  * [Update repository](#update-repository)
 
 # Requirements
-* Windows 7 / Windows 10
 * Linux
-* [git](https://git-scm.com/)
+* OSX
+* Windows 10
+* [git](https://git-scm.com)
+* [gil](https://github.com/chronoxor/GitLinks.git)
 
-# How to clone, refresh and update?
-
-## Clone all repositories
-
-Windows
+# Update repository
+Linux, OSX
 ```
-clone.bat
+update.sh
 ```
-
-Linux
-```
-clone.sh
-```
-
-## Refresh all repositories
-
-Windows
-```
-refresh.bat
-```
-
-Linux
-```
-refresh.sh
-```
-
-## Update all repositories
-
-This step requires push access to repositories.
 
 Windows
 ```
 update.bat
-```
-
-Linux
-```
-update.sh
 ```
