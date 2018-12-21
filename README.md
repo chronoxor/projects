@@ -10,7 +10,7 @@ Projects repository and update script are used to prepare a local workspace.
 * OSX
 * Windows 10
 * [git](https://git-scm.com)
-* [gil](https://github.com/chronoxor/GitLinks.git)
+* [gil](https://github.com/chronoxor/gil.git)
 
 # Update repository
 Linux, OSX
