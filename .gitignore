@@ -3,6 +3,7 @@
 
 # Except some necessary files
 !.gitignore
+!.gitlinks
 !LICENSE
 !README.md
 

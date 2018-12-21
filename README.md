@@ -1,5 +1,5 @@
 # Projects
-Projects repository and update script allows to prepare a local workspace.
+Projects repository and update script are used to prepare a local workspace.
 
 # Contents
   * [Requirements](#requirements)
