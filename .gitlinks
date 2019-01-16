@@ -8,6 +8,7 @@ CppTemplate CppTemplate https://github.com/chronoxor/CppTemplate.git master
 CppTrader CppTrader https://github.com/chronoxor/CppTrader.git master
 CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git master
 FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git master
+NETCoreServer NETCoreServer https://github.com/chronoxor/NETCoreServer.git master
 
 # Modules
 asio modules/asio https://github.com/chriskohlhoff/asio.git master
