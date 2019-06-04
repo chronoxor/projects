@@ -2,6 +2,7 @@
 CppBenchmark CppBenchmark https://github.com/chronoxor/CppBenchmark.git master
 CppCommon CppCommon https://github.com/chronoxor/CppCommon.git master
 CppLogging CppLogging https://github.com/chronoxor/CppLogging.git master
+CppSecurity CppSecurity https://github.com/chronoxor/CppSecurity.git master
 CppSerialization CppSerialization https://github.com/chronoxor/CppSerialization.git master
 CppServer CppServer https://github.com/chronoxor/CppServer.git master
 CppTemplate CppTemplate https://github.com/chronoxor/CppTemplate.git master
