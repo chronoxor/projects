@@ -10,6 +10,7 @@ CppTrader CppTrader https://github.com/chronoxor/CppTrader.git master
 CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git master
 FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git master
 NetCoreServer NetCoreServer https://github.com/chronoxor/NetCoreServer.git master
+ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
 
 # Modules
 asio modules/asio https://github.com/chriskohlhoff/asio.git master
