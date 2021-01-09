@@ -23,7 +23,7 @@ fmt modules/fmt https://github.com/fmtlib/fmt.git master
 HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git master
 protobuf modules/protobuf https://github.com/google/protobuf.git master
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
-SQLiteCpp modules/SQLiteCpp https://github.com/chronoxor/SQLiteCpp.git master
+SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
 tomlplusplus modules/tomlplusplus https://github.com/marzer/tomlplusplus.git master
 zlib modules/zlib https://github.com/madler/zlib.git master
 
