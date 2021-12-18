@@ -7,18 +7,24 @@ Projects repository and update script are used to prepare a local workspace.
 
 # Requirements
 * Linux
-* OSX
+* MacOS
 * Windows 10
 * [git](https://git-scm.com)
 * [gil](https://github.com/chronoxor/gil.git)
 
 # Update repository
-Linux, OSX
+
+### Linux
 ```
 update.sh
 ```
 
-Windows
+### MacOS
+```
+update.sh
+```
+
+### Windows
 ```
 update.bat
 ```
