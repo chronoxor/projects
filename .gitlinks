@@ -15,7 +15,7 @@ ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
 
 # Modules
 asio modules/asio https://github.com/chriskohlhoff/asio.git master
-Boxer modules/Boxer https://github.com/aaronmjacobs/Boxer.git master
+Boxer modules/Boxer https://github.com/chronoxor/Boxer.git master
 capnproto modules/capnproto https://github.com/capnproto/capnproto.git master
 Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v2.x
 cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git master
