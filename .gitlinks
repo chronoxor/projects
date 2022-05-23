@@ -21,7 +21,7 @@ Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v2.x
 cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git master
 flatbuffers modules/flatbuffers https://github.com/google/flatbuffers.git master
 fmt modules/fmt https://github.com/fmtlib/fmt.git master
-HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git master
+HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git main
 protobuf modules/protobuf https://github.com/google/protobuf.git main
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
 SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
