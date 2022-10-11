@@ -10,7 +10,6 @@ CppTrader CppTrader https://github.com/chronoxor/CppTrader.git master
 CSharpServer CSharpServer https://github.com/chronoxor/CSharpServer.git master
 FastBinaryEncoding FastBinaryEncoding https://github.com/chronoxor/FastBinaryEncoding.git master
 NetCoreServer NetCoreServer https://github.com/chronoxor/NetCoreServer.git master
-OpenSSL PrimeTrader https://github.com/chronoxor/OpenSSL.git master
 PrimeTrader PrimeTrader https://github.com/chronoxor/PrimeTrader.git master
 ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
 
@@ -23,6 +22,7 @@ cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git ma
 flatbuffers modules/flatbuffers https://github.com/google/flatbuffers.git master
 fmt modules/fmt https://github.com/fmtlib/fmt.git master
 HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git main
+OpenSSL modules/OpenSSL https://github.com/chronoxor/OpenSSL.git master
 protobuf modules/protobuf https://github.com/google/protobuf.git main
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
 SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
