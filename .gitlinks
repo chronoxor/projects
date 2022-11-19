@@ -20,7 +20,6 @@ Boxer modules/Boxer https://github.com/aaronmjacobs/Boxer.git master
 capnproto modules/capnproto https://github.com/capnproto/capnproto.git master
 Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v2.x
 cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git master
-fastpbkdf2 modules/fastpbkdf2 https://github.com/chronoxor/fastpbkdf2.git master
 flatbuffers modules/flatbuffers https://github.com/google/flatbuffers.git master
 fmt modules/fmt https://github.com/fmtlib/fmt.git master
 HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git main
