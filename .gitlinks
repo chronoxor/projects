@@ -18,7 +18,7 @@ Argon2 modules/Argon2 https://github.com/P-H-C/phc-winner-argon2.git master
 asio modules/asio https://github.com/chriskohlhoff/asio.git master
 Boxer modules/Boxer https://github.com/aaronmjacobs/Boxer.git master
 capnproto modules/capnproto https://github.com/capnproto/capnproto.git master
-Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git v2.x
+Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git devel
 cpp-optparse modules/cpp-optparse https://github.com/weisslj/cpp-optparse.git master
 flatbuffers modules/flatbuffers https://github.com/google/flatbuffers.git master
 fmt modules/fmt https://github.com/fmtlib/fmt.git master
