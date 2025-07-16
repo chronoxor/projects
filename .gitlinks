@@ -15,7 +15,7 @@ ProtoTrader ProtoTrader https://github.com/chronoxor/ProtoTrader.git master
 
 # Modules
 Argon2 modules/Argon2 https://github.com/P-H-C/phc-winner-argon2.git master
-asio modules/asio https://github.com/chriskohlhoff/asio.git master
+asio modules/asio https://github.com/chriskohlhoff/asio.git asio-1-32-0
 Boxer modules/Boxer https://github.com/aaronmjacobs/Boxer.git master
 capnproto modules/capnproto https://github.com/capnproto/capnproto.git master
 Catch2 modules/Catch2 https://github.com/catchorg/Catch2.git devel
