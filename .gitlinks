@@ -1,5 +1,5 @@
 # Projects
-CppBenchmark CppBenchmark https://github.com/chronoxor/CppBenchmark.git master
+CppBenchmark CppBenchmark https://github.com/chronoxor/CppBenchmark.git main
 CppCommon CppCommon https://github.com/chronoxor/CppCommon.git master
 CppLogging CppLogging https://github.com/chronoxor/CppLogging.git master
 CppSecurity CppSecurity https://github.com/chronoxor/CppSecurity.git master
@@ -25,7 +25,7 @@ fmt modules/fmt https://github.com/fmtlib/fmt.git main
 HdrHistogram modules/HdrHistogram https://github.com/HdrHistogram/HdrHistogram_c.git main
 libbcrypt modules/libbcrypt https://github.com/chronoxor/libbcrypt.git master
 libscrypt modules/libscrypt https://github.com/technion/libscrypt.git master
-OpenSSL modules/OpenSSL https://github.com/chronoxor/OpenSSL.git master
+OpenSSL modules/OpenSSL https://github.com/chronoxor/OpenSSL.git main
 protobuf modules/protobuf https://github.com/google/protobuf.git main
 rapidjson modules/rapidjson https://github.com/miloyip/rapidjson.git master
 SQLiteCpp modules/SQLiteCpp https://github.com/SRombauts/SQLiteCpp.git master
@@ -36,5 +36,5 @@ zlib modules/zlib https://github.com/madler/zlib.git master
 zpp_bits modules/zpp_bits https://github.com/eyalz800/zpp_bits.git main
 
 # Scripts
-build scripts/build https://github.com/chronoxor/CppBuildScripts.git master
-cmake scripts/cmake https://github.com/chronoxor/CppCMakeScripts.git master
+build scripts/build https://github.com/chronoxor/CppBuildScripts.git main
+cmake scripts/cmake https://github.com/chronoxor/CppCMakeScripts.git main
